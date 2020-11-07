@@ -1,0 +1,24 @@
+{
+	box-sizing: border-box;
+	padding: 0;
+	margin: 0;
+}
+
+.btn{
+	position: fixed;
+	right: 0;
+	padding: 0.4rem;
+	width: 4rem;
+	background: rgb(0,0,0);
+	color: gold;
+	font-style: 1rem;
+	outline: none;
+	cursor: pointer;
+	height: 90vh;
+}
+
+.btn:hover{
+	color: white
+	background: green;
+}
+.main-editor
